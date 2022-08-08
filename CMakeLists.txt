@@ -3,4 +3,4 @@ project(04_Git)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(04_Git main.cpp)
+add_executable(04_Git main.cpp func.cpp)
