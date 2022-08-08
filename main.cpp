@@ -9,6 +9,7 @@ int main()
 	std::cout << "Hello, Version4!" << std::endl;
 
 	std::cout << "rebase" << std::endl;
+	std::cout << "rebase1" << std::endl;
 	std::cout << "Merge Conflicts" << std::endl;
 	return 0;
 }
