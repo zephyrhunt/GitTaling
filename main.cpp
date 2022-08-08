@@ -10,6 +10,7 @@ int main()
 
 	std::cout << "rebase" << std::endl;
 	std::cout << "rebase1" << std::endl;
+	std::cout << "rebase2" << std::endl;
 	std::cout << "Merge Conflicts" << std::endl;
 	return 0;
 }
